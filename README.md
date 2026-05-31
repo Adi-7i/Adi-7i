@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Aditya%20Kumar%20Sahoo%20%28ADI%29&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI-Amplified%20Backend%20Engineer%20%7C%20Python%20%7C%20Backend%20Systems%20%7C%20AI%20Agents&descAlignY=60&descSize=18&descColor=a0aec0" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,40:1C2541,65:0077B6,85:FFB703,100:FB8500&height=220&section=header&text=Aditya%20Kumar%20Sahoo%20%28ADI%29&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI-Amplified%20Backend%20Engineer%20%7C%20Python%20%7C%20Backend%20Systems%20%7C%20AI%20Agents&descAlignY=60&descSize=18&descColor=F8FAFC" alt="header" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Building+scalable+backend+systems;Engineering+AI-powered+applications;Python+%E2%80%A2+FastAPI+%E2%80%A2+APIs+%E2%80%A2+Databases;Learning+deeply%2C+building+consistently)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=FFB703&center=true&vCenter=true&repeat=true&width=600&lines=Building+scalable+backend+systems;Engineering+AI-powered+applications;Python+%E2%80%A2+FastAPI+%E2%80%A2+APIs+%E2%80%A2+Databases;Learning+deeply%2C+building+consistently)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,10 +16,10 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Adi--7i-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adi-7i)&nbsp;
-[![Email](https://img.shields.io/badge/Email-adityaadi4k%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaadi4k@gmail.com)&nbsp;
-[![Location](https://img.shields.io/badge/Location-Odisha%2C%20India-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Adi-7i)&nbsp;
-[![Collaborate](https://img.shields.io/badge/Open%20to-Collaboration-238636?style=for-the-badge&logo=handshake&logoColor=white)](mailto:adityaadi4k@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Adi--7i-0077B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adi-7i)&nbsp;
+[![Email](https://img.shields.io/badge/Email-adityaadi4k%40gmail.com-FB8500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaadi4k@gmail.com)&nbsp;
+[![Location](https://img.shields.io/badge/Location-Odisha%2C%20India-00B4D8?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Adi-7i)&nbsp;
+[![Collaborate](https://img.shields.io/badge/Open%20to-Collaboration-FB8500?style=for-the-badge&logo=handshake&logoColor=white)](mailto:adityaadi4k@gmail.com)
 
 </div>
 
@@ -119,11 +119,11 @@ class AdityaKumarSahoo:
 
 **AI / Systems**
 
-![AI Agents](https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![RAG Systems](https://img.shields.io/badge/RAG%20Systems-FF6B35?style=for-the-badge&logoColor=white)&nbsp;
-![LLM APIs](https://img.shields.io/badge/LLM%20APIs-7C3AED?style=for-the-badge&logoColor=white)&nbsp;
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=for-the-badge&logoColor=white)&nbsp;
-![Automation](https://img.shields.io/badge/Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-0077B6?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![RAG Systems](https://img.shields.io/badge/RAG%20Systems-FB8500?style=for-the-badge&logoColor=white)&nbsp;
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-1C2541?style=for-the-badge&logoColor=white)&nbsp;
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00B4D8?style=for-the-badge&logoColor=white)&nbsp;
+![Automation](https://img.shields.io/badge/Automation-0B132B?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -135,8 +135,8 @@ class AdityaKumarSahoo:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adi-7i&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff"/>&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-7i&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Adi-7i&show_icons=true&theme=transparent&hide_border=false&border_color=00B4D8&title_color=FFB703&text_color=F8FAFC&icon_color=FB8500&bg_color=0B132B&border_radius=14&include_all_commits=true&count_private=true" alt="Aditya's GitHub Stats"/>&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-7i&layout=compact&theme=transparent&hide_border=false&border_color=00B4D8&title_color=FFB703&text_color=F8FAFC&bg_color=0B132B&border_radius=14&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -144,7 +144,7 @@ class AdityaKumarSahoo:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Adi-7i&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
+<img src="https://streak-stats.demolab.com?user=Adi-7i&theme=dark&hide_border=false&border=00B4D8&background=0B132B&ring=FFB703&fire=FB8500&currStreakLabel=FFB703&sideLabels=90E0EF&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub Streak"/>
 
 </div>
 
@@ -152,23 +152,27 @@ class AdityaKumarSahoo:
 
 ---
 
-## Contribution Visuals
+<!-- ─── Contribution Visuals ──────────────────────────────────────────────────
+     These images are generated by GitHub Actions and will not render until
+     those workflows have run for the first time.
 
-<!-- 3D Contribution Galaxy — generated by GitHub Actions (yoshi389111/github-profile-3d-contrib). Will render once the workflow has run. -->
-<div align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
-</div>
+     To enable: set up the corresponding Actions, then uncomment the section
+     below (remove the outer comment block).
 
-<br/>
+     ## Contribution Visuals
 
-<!-- Contribution Snake — generated by GitHub Actions (platane/snk). Will render once the workflow has run. -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Adi-7i/Adi-7i/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
-</div>
+     Future 3D Contribution Galaxy (yoshi389111/github-profile-3d-contrib):
+     <div align="center">
+       <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Galaxy" width="100%" />
+     </div>
 
-<br/>
+     <br/>
 
----
+     Future Contribution Snake (platane/snk):
+     <div align="center">
+       <img src="https://raw.githubusercontent.com/Adi-7i/Adi-7i/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+     </div>
+─────────────────────────────────────────────────────────────────────────── -->
 
 ## Engineering Principles
 
@@ -194,8 +198,8 @@ I'm open to collaboration on **backend systems**, **AI applications**, **automat
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Reach%20Out-adityaadi4k%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaadi4k@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-Adi--7i-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adi-7i)
+[![Email](https://img.shields.io/badge/Reach%20Out-adityaadi4k%40gmail.com-FB8500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaadi4k@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-Adi--7i-0077B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adi-7i)
 
 </div>
 
@@ -205,7 +209,7 @@ I'm open to collaboration on **backend systems**, **AI applications**, **automat
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FB8500,40:FFB703,65:0077B6,80:1C2541,100:0B132B&height=120&section=footer" alt="footer" width="100%"/>
 
 <sub>Built with focus. Pushed with intent.</sub>
 
